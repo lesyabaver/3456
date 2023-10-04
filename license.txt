@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spider robot
+* source:	https://sketchfab.com/3d-models/spider-robot-1d0e9eb9b9b64d7c8f0f28dba5112b46
+* author:	tiunov.se (https://sketchfab.com/tiunov.se)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spider robot" (https://sketchfab.com/3d-models/spider-robot-1d0e9eb9b9b64d7c8f0f28dba5112b46) by tiunov.se (https://sketchfab.com/tiunov.se) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
